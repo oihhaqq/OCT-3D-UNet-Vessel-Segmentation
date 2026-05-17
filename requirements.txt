@@ -1,0 +1,11 @@
+torch
+monai
+numpy
+nibabel
+SimpleITK
+scipy
+matplotlib
+tqdm
+scikit-image
+opencv-python
+pandas
