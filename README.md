@@ -56,5 +56,7 @@ NIfTI 数据读取与预处理
 3D Slicer 三维重构与结果展示
 
 ## 6. 三维重构与分割掩模结果展示
-<img width="890" height="615" alt="slicer_result" src="https://github.com/user-attachments/assets/d5425159-bc53-413e-a881-e86620eab95a" />
-<img width="645" height="453" alt="slicer_result_mask" src="https://github.com/user-attachments/assets/dd858d54-65cd-41e0-9c90-edf2cf2b3091" />
+<img width="890" height="615" alt="slicer_result" src="https://github.com/user-attachments/assets/e55fafb0-cbe7-4dae-a13d-75cf1d881f2d" />
+<img width="645" height="453" alt="slicer_result_mask" src="https://github.com/user-attachments/assets/cae14214-3ccb-4b11-8763-64935b06c4b9" />
+
+
