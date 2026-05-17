@@ -42,19 +42,6 @@
 整体流程如下：
 <img width="1122" height="1402" alt="pineline" src="https://github.com/user-attachments/assets/91d833b7-f2e6-4d22-b9f2-dc1dacefeeaa" />
 
-```text
-OCT/OCTA 三维数据
-        ↓
-NIfTI 数据读取与预处理
-        ↓
-3D U-Net 模型训练
-        ↓
-滑窗推理生成 probability map
-        ↓
-阈值化得到 binary mask
-        ↓
-3D Slicer 三维重构与结果展示
-
 ## 6. 三维重构与分割掩模结果展示
 <img width="890" height="615" alt="slicer_result" src="https://github.com/user-attachments/assets/e55fafb0-cbe7-4dae-a13d-75cf1d881f2d" />
 <img width="645" height="453" alt="slicer_result_mask" src="https://github.com/user-attachments/assets/cae14214-3ccb-4b11-8763-64935b06c4b9" />
