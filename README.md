@@ -43,7 +43,13 @@
 <img width="1122" height="1402" alt="pineline" src="https://github.com/user-attachments/assets/91d833b7-f2e6-4d22-b9f2-dc1dacefeeaa" />
 
 ## 6. 三维重构与分割掩模结果展示
+
 <img width="890" height="615" alt="slicer_result" src="https://github.com/user-attachments/assets/e55fafb0-cbe7-4dae-a13d-75cf1d881f2d" />
 <img width="645" height="453" alt="slicer_result_mask" src="https://github.com/user-attachments/assets/cae14214-3ccb-4b11-8763-64935b06c4b9" />
 
+## 7. 完整预测结果文件
 
+由于 `.nii.gz` 三维预测结果文件体积较大，本仓库未直接上传完整结果文件。  
+完整 probability map 与 binary mask 文件已上传至网盘，说明见：
+
+[预测结果文件说明](results/result_files.md)
